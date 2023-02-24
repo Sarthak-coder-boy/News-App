@@ -8,7 +8,7 @@ const Navbar = ()=> {
         <nav className=" fixed-top navbar navbar-expand-lg navbar-dark bg-dark">
           <div className="container-fluid">
             <Link className="navbar-brand " to="/">
-              NewsMonkey
+              NewsLife
             </Link>
             <button
               className="navbar-toggler"
